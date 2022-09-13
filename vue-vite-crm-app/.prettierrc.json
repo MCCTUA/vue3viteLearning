@@ -1,8 +1,11 @@
 {
-    "editor.formatOnSave": true,
-    "prettier.jsxSingleQuote": true,
+    "formatOnSave": true,
+    "jsxSingleQuote": true,
     "singleQuote": true,
-    "prettier.tabWidth": 2,
-    "prettier.trailingComma": "none",
-    "prettier.semi": false
+    "tabWidth": 2,
+    "trailingComma": "none",
+    "semi": false,
+    "bracketSpacing": true,
+    "bracketSameLine": true,
+    "arrowParens":"always"
 }
